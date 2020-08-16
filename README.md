@@ -3,15 +3,15 @@
 </br>
 <h2 id="mw-toc-heading">Contents</h2>
 <ul>
-<li class="toclevel-1 tocsection-1"><a href="https://en.wikipedia.org/wiki/Outline_of_electrical_engineering#Classification"><span class="toctext">Classification</span></a></li>
-<li class="toclevel-1 tocsection-2"><a href="https://en.wikipedia.org/wiki/Outline_of_electrical_engineering#Branches_of_electrical_engineering"><span class="toctext">Branches of electrical engineering</span></a></li>
-<li class="toclevel-1 tocsection-3"><a href="https://en.wikipedia.org/wiki/Outline_of_electrical_engineering#Related_disciplines"><span class="toctext">Related disciplines</span></a></li>
-<li class="toclevel-1 tocsection-4"><a href="https://en.wikipedia.org/wiki/Outline_of_electrical_engineering#History_of_electrical_engineering"><span class="toctext">History of electrical engineering</span></a></li>
-<li class="toclevel-1 tocsection-5"><a href="https://en.wikipedia.org/wiki/Outline_of_electrical_engineering#General_electrical_engineering_concepts"><span class="toctext">General electrical engineering concepts</span></a></li>
-<li class="toclevel-1 tocsection-15"><a href="https://en.wikipedia.org/wiki/Outline_of_electrical_engineering#Electrical_engineering_occupations"><span class="toctext">Electrical engineering occupations</span></a></li>
-<li class="toclevel-1 tocsection-16"><a href="https://en.wikipedia.org/wiki/Outline_of_electrical_engineering#Electrical_engineering_organizations"><span class="toctext">Electrical engineering organizations</span></a></li>
-<li class="toclevel-1 tocsection-17"><a href="https://en.wikipedia.org/wiki/Outline_of_electrical_engineering#Electrical_engineering_publications"><span class="toctext">Electrical engineering publications</span></a></li>
-<li class="toclevel-1 tocsection-18"><a href="https://en.wikipedia.org/wiki/Outline_of_electrical_engineering#Persons_influential_in_electrical_engineering"><span class="toctext">Persons influential in electrical engineering</span></a></li>
+<li class="toclevel-1 tocsection-1"><a href="#Classification"><span class="toctext">Classification</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Branches_of_electrical_engineering"><span class="toctext">Branches of electrical engineering</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Related_disciplines"><span class="toctext">Related disciplines</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#History_of_electrical_engineering"><span class="toctext">History of electrical engineering</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#General_electrical_engineering_concepts"><span class="toctext">General electrical engineering concepts</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#Electrical_engineering_occupations"><span class="toctext">Electrical engineering occupations</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#Electrical_engineering_organizations"><span class="toctext">Electrical engineering organizations</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#Electrical_engineering_publications"><span class="toctext">Electrical engineering publications</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#Persons_influential_in_electrical_engineering"><span class="toctext">Persons influential in electrical engineering</span></a></li>
 </ul>
 </br>
 <h2><span id="Classification" class="mw-headline">Classification</span></h2>
