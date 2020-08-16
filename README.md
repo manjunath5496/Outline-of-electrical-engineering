@@ -14,7 +14,6 @@
 <li class="toclevel-1 tocsection-18"><a href="https://en.wikipedia.org/wiki/Outline_of_electrical_engineering#Persons_influential_in_electrical_engineering"><span class="toctext">Persons influential in electrical engineering</span></a></li>
 </ul>
 </br>
-<
 <h2><span id="Classification" class="mw-headline">Classification</span></h2>
 <p>Electrical engineering can be described as all of the following:</p>
 <ul>
